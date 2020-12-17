@@ -1,0 +1,4 @@
+[1115/195240.070:ERROR:process_info.cc(359)] UncheckedAllocate
+[1115/195240.071:ERROR:process_info.cc(359)] UncheckedAllocate
+[1115/195240.109:ERROR:process_info.cc(359)] UncheckedAllocate
+[1115/195240.115:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\elena\AppData\Local\Temp\scoped_dir5420_1364403764\Crashpad\attachments\b69a31e4-3e83-454e-8ff2-6a1dd7f95533: The system cannot find the path specified. (0x3)
